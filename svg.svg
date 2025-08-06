@@ -12,7 +12,7 @@ xml:space="preserve">
 
 <!-- Electric Guitar - Rickenbacker Style -->
 <g id="Electric_Guitar" transform="translate(267.5,280)">
-	<g transform="translate(-189,-210) scale(0.84) rotate(10)">
+	<g transform="translate(-165,-210) scale(0.85) rotate(13)">
 		<path d="M5.252,360.349c60.967-28.236,103.987-14.331,113.845-4.473c8.572,8.572-17.083,90.488-25.954,117.803
 			c-1.583,4.877,0.755,6.841,5.266,4.4l83.477-45.063c4.51-2.437,9.027-8.484,10.165-13.485
 			c5.448-23.988,21.259-88.376,37.461-104.582c14.016-14.01,37.971-18.073,51.095-19.251c5.113-0.453,11.312-4.104,13.821-8.572
@@ -25,8 +25,4 @@ xml:space="preserve">
 			C-1.256,360.701,0.595,362.501,5.252,360.349z"/>
 	</g>
 </g>
-
-<!-- Bottom Black Triangle - Filling the hexagon bottom -->
-<polygon id="Bottom_Base" points="62,492 469,492 267.5,617.8" fill="black"/>
-
 </svg>
