@@ -1,3 +1,4 @@
+# Who Needs Heroes?
 Is a surprisingly common sentiment that I see around the world nowadays! I don’t know where it came from. No one **usually** says this outright, of course, but there’s certainly a temperature shift among people that prevents them from talking at length about their idols and heroes like they used to. There’s a lot of things you can attribute this to but that’s an entirely different topic.
 
 The importance of having someone to look up to, whether fictional or real is immeasurable and deeply necessary for every generation. A true role model gives us something to aspire to, grounds our sense of purpose, and reinforces why we believe in the things we do. Let me throw a younger reader for a whirl, and explain why this matters to me. My role model was Ken Kaneki — *that* Ken Kaneki — from Tokyo Ghoul.
